@@ -1,0 +1,3 @@
+/home/ckl/developer/MAVSDK/example/my_fly_mission_2/build/CMakeFiles/rebuild_cache.dir
+/home/ckl/developer/MAVSDK/example/my_fly_mission_2/build/CMakeFiles/my_fly_mission_2.dir
+/home/ckl/developer/MAVSDK/example/my_fly_mission_2/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/my_fly_mission_2.dir/my_fly_mission_2.cpp.o  -o my_fly_mission_2 -Wl,-rpath,/usr/local/lib /usr/local/lib/libmavsdk_offboard.so /usr/local/lib/libmavsdk_telemetry.so /usr/local/lib/libmavsdk_action.so /usr/local/lib/libmavsdk.so 
