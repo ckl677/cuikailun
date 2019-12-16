@@ -10,11 +10,12 @@ endif()
 
 find_package(MAVSDK REQUIRED)
 
-add_executable(my_fly_mission_1
-    my_fly_mission_1.cpp
+add_executable(my_fly_mission_2
+    my_fly_mission_2.cpp
 )
 
-target_link_libraries(my_fly_mission_1
+target_link_libraries(my_fly_mission_2
+    MAVSDK::mavsdk_offboard
     MAVSDK::mavsdk_telemetry
     MAVSDK::mavsdk_action
     MAVSDK::mavsdk
